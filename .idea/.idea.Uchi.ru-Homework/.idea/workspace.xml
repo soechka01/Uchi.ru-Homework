@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/LoadLevel.cs" />
         <option value="$PROJECT_DIR$/Assets/DangerZone.cs" />
         <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shoot.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692834967905</updated>
-      <workItem from="1692834979759" duration="3385000" />
+      <workItem from="1692834979759" duration="4214000" />
     </task>
     <servers />
   </component>

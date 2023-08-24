@@ -21,6 +21,7 @@
         <e p="LevelReload.cs" t="Include" />
         <e p="LoadLevel.cs" t="Include" />
         <e p="Rotate.cs" t="Include" />
+        <e p="Shoot.cs" t="Include" />
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
             <e p="FirstPersonCharacter" t="Include">
