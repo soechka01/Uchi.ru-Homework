@@ -24,6 +24,7 @@
           <e p="LoadLevel.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
+          <e p="Rotate2.cs" t="Include" />
           <e p="Shoot.cs" t="Include" />
           <e p="WinScene.cs" t="Include" />
         </e>
